@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-sensual-harmony/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Deep Sensual Harmony](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-sensual-harmony/) |
+| **Get License** | [Obtain a Music License for Deep Sensual Harmony](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-sensual-harmony/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dbe7961de17e3cfb1ae0a04aff417ccf6df7627905ac36666b8d7818c822fe4e` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
