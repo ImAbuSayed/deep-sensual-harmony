@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-sensual-harmony/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Deep Sensual Harmony](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-sensual-harmony/) |
+| **Get License** | [Secure Licensing Rights for Deep Sensual Harmony](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-sensual-harmony/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows falling down across the floor
+> I have never wanted anybody more
+> Come a little closer to the glow
+> Let the rest of the world just fade and go
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
